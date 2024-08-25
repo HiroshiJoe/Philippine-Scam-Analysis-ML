@@ -1,3 +1,4 @@
+![Scam Analysis and Machine Learning](scam_guard.png)
 # Scam Detection Using Text Analysis and Machine Learning
 
 ## Overview
